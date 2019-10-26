@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="nenHinhTron">#8cf2ff</color>
+    <color name="vienHinhTron">#5a9eff</color>
+
+</resources>
